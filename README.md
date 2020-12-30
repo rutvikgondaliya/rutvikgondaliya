@@ -17,6 +17,9 @@ https://simpleicons.org/
 [![HackerRank](https://img.shields.io/badge/HackerRank-Rutvik_Gondaliya-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/GondaliyaRutvik)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvikgondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="rutvikgondaliya" /> </p>
+
 <h2 align='center'><samp><strong>Hi there 👋, I am Rutvik Gondaliya</strong></samp></h2>
 <h3 align='center'><strong><a href="https://github.com/rutvikgondaliya" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
@@ -25,7 +28,13 @@ https://simpleicons.org/
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvikgondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="rutvikgondaliya" /> </p>
+
+🧐 **Knowledge of:**<br>
+
+`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Embedded System Programming`, `Object-Oriented Programming`, `data structures and algorithms`.
+
+🚩 **Highlights:** <br>
+&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutvikgondaliya" alt="rutvikgondaliya" /></a> </p>
 
