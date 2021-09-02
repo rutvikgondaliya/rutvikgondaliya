@@ -22,7 +22,7 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Rutvik Gondaliya</strong></samp></h2>
 <h3 align='center'><strong><a href="https://github.com/rutvikgondaliya" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Computer Science Student | Competitive Programmer | Problem Solver | Web developer</p>
+<p align='center'>Android app developer | Flutter developer | C,C++,Java,Python | UI/UX Designer | DS and Algo | Competitive Programmer | Problem Solver</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop Android App or Flutter App and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack App Developer career path, and loves working with cutting edge tools and technologies.</p>
 
