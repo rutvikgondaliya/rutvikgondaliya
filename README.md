@@ -24,14 +24,14 @@ https://simpleicons.org/
 <h3 align='center'><strong><a href="https://github.com/rutvikgondaliya" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Computer Science Student | Competitive Programmer | Problem Solver | Web developer</p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop Android App or Flutter App and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack App Developer career path, and loves working with cutting edge tools and technologies.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+**Software Engineer** with excellent **problem-solving** skills and ability to perform well in a team.Flexible to work in any environment as required. Here to secure a **challenging**, **working opportunity** that offers professional growth while being **resourceful, innovative and competitive**.I pay *a lot of attention to detail* to generate best products.
 
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Embedded System Programming`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Responsive App design`, `Android App Development`, `Flutter Development`, `UI/UX Design`, `Embedded System Programming`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 🚩 **Highlights:** <br>
 &nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
